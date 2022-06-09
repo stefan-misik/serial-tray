@@ -1,0 +1,8 @@
+# Generated icon files
+*.png
+*.ico
+
+# Generated source files
+*.hpp
+*.inc
+
